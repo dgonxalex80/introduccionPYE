@@ -1,8 +1,9 @@
-name: " "
+name: "PyE"
+output_dir: "docs"
 navbar:
   title: " "
   left:
-    - text: "Syllabus"
+    - text: "Home"
       href: index.html
-    - text: "Información"
+    - text: "About"
       href: about.html
