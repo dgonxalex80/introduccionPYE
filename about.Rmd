@@ -4,9 +4,27 @@ title: "**Informacion Adicional**"
 
 <br/><br/>
 
-# **Metodología**
+# **CALENDARIO ACADÉMICO 2023-2**
 
 <br/>
+
+![](img/CALENDARIO20232.png)
+
+<br/><br/>
+
+# **SALONES DE CLASE**
+
+![](img/SALONES.png)
+<br/><br/>
+
+# **EXAMENES SUPLETORIOS**
+
+
+<br/><br/><br/><br/><br/><br/>
+
+# **METODOLOGÍA**
+
+<br/><br/><br/>
 
 ![](img/curso01.png)
 <br/><br/>
@@ -18,4 +36,6 @@ title: "**Informacion Adicional**"
 ![](img/curso03.png)
 
 <br/><br/>
+
+
 

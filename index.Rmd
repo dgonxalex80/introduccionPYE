@@ -48,11 +48,11 @@ Este curso se desarrolla en cinco horas de clases semanales y una hora de trabaj
 La siguiente tabla corresponde a la importancia dada a cada uno de los **resultados de aprendizaje** (RA) y sus respectivos objetivos de aprendizaje 
 
 
-#### **RA1**: Apropiación y aplicación de conocimientos básicos en ingeniería y ciencias  
+##### **RA1**: Apropiación y aplicación de conocimientos básicos en ingeniería y ciencias  
 
-#### **RA3**: Comunicación efectiva  
+##### **RA3**: Comunicación efectiva  
 
-#### **RA6**: Experimentación, medición y análisis 
+##### **RA6**: Experimentación, medición y análisis 
 
 <br/><br/>
 
@@ -67,15 +67,15 @@ La siguiente tabla corresponde a la importancia dada a cada uno de los **resulta
 
 <br/><br/>
 
-#### **OA1**.	
+##### **OA1**.	
 
 Interpretar e implementar conocimientos de estadística y probabilidad a través de su participación activa en el análisis de información, situaciones y problemas en contexto y áreas de conocimiento que permita orientar la toma de decisiones informadas. 
 
-#### **OA3**.	
+##### **OA3**.	
 
 Construir ideas a través de la elaboración e interpretación de argumentos de manera organizada y precisa, basados en evidencia estadísticas para favorecer el desarrollo de proyectos que aportan soluciones a problemas reales. 
 
-#### **OA6**.	
+##### **OA6**.	
 
 Aplicar métodos estadísticos a través del lenguaje de programación R y herramientas de visualización para la solución a problemas que faciliten el aprendizaje de conceptos a través de simulaciones en el contexto de estadística y probabilidad para alcanzar validez de las soluciones propuestas. 
 
@@ -83,7 +83,7 @@ Aplicar métodos estadísticos a través del lenguaje de programación R y herra
 
 # **Contenidos de la asiginatura**
 
-#### **CA1**: Módulo 1 Análisis de datos  
+##### **CA1**: Módulo 1 Análisis de datos  
 
 1.1: Metodología estadística y bases de datos 
 1.2: Tablas de frecuencia e indicadores estadísticos 
@@ -91,14 +91,14 @@ Aplicar métodos estadísticos a través del lenguaje de programación R y herra
 
 <br/>
 
-#### **CA2**: Módulo 2 Introducción a la probabilidad 
+##### **CA2**: Módulo 2 Introducción a la probabilidad 
 
 2.1: Conceptos básicos y enfoques de probabilidad 
 2.2: Tipos de probabilidad y sus aplicaciones 
 
 <br/>
 
-#### **CA3** :Módulo 3: Conoce sobre modelos estadísticos (Variable aleatoria) 
+##### **CA3** :Módulo 3: Conoce sobre modelos estadísticos (Variable aleatoria) 
 
 3.1: Variables aleatorias 
 3.2: Variables aleatorias conjuntas 
@@ -106,7 +106,7 @@ Aplicar métodos estadísticos a través del lenguaje de programación R y herra
 
 <br/> 
 
-#### **CA4** :Módulo 4:  Generaliza los resultados y prueba tus hipótesis (Inferencia estadística) 
+##### **CA4** :Módulo 4:  Generaliza los resultados y prueba tus hipótesis (Inferencia estadística) 
 
 4.1: Conceptos de inferencia estadística 
 4.2: Intervalos de confianza 
@@ -114,7 +114,7 @@ Aplicar métodos estadísticos a través del lenguaje de programación R y herra
 
 <br/>
 
-#### **CA5** Módulo 5: Aplica lo aprendido (Modelo de regresión lineal)   
+##### **CA5** Módulo 5: Aplica lo aprendido (Modelo de regresión lineal)   
 
 5.1:  Modelo de regresión lineal simple 
 5.2: Modelo de regresión lineal múltiple    
@@ -127,19 +127,19 @@ Aplicar métodos estadísticos a través del lenguaje de programación R y herra
 
 Este curso estará bajo metodología de aula invertida que propicia la participación activa del estudiante en el proceso de formación. Para su implementación el contenido del curso está dividido en 5 módulos, que a si vez se dividen en unidades.  
 
-#### **ED1**.	
+##### **ED1**.	
 
 Clase magistral: [Plataforma web, videos, guías de aprendizaje, computador, tableta, herramienta computacional] 
 
-#### **ED2**.	
+##### **ED2**.	
 
 Método del caso: [Guía de aprendizaje con enunciado de caso, computador, herramienta computacional] 
 
-#### **ED5**.	
+##### **ED5**.	
 
 Aprendizaje basado en problemas: [Guía de aprendizaje con enunciados de problemas, solucionario de problemas] 
 
-#### **ED8**.	
+##### **ED8**.	
 
 Aprendizaje basado en simulaciones: [Guía de aprendizaje con situaciones problema, herramienta computacional] 
 
