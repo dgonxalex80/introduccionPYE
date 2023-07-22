@@ -1,0 +1,8 @@
+name: " "
+navbar:
+  title: " "
+  left:
+    - text: "Syllabus"
+      href: index.html
+    - text: "Información"
+      href: about.html
